@@ -39,7 +39,7 @@ career-profile:
     title: Career Profile
     summary: |
       I'm a programmer and network engineer who works in the field of earth sciences 
-      since 2012 applying my expertice in Networing, Linux and Python  to manage, 
+      since 2012 applying my expertice in Networking, Linux and Python to manage, 
       troubleshoot and improve seismological data acquisition and processing. At IGEPN 
       I'm in charge of several processing systems like SeisComP3, Shakemap and Swift.
 
@@ -60,35 +60,29 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Seismic Analyst 2
+      time: 2019 - Present
+      company: Geophysical Institute, Quito - Ecuador
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Develop and implement quality control systems for the seismic and volcanic network 
+        monitoring. 
+        
+        Train and advise technical co workers in the operation of systems in charge  
+        of the acquisition and processing of seismic data. 
+        
+          - Processing of seismic data using Python and C++
+          - Processing of volcanic videos using openCV
+        
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Seismic Analyst 1
+      time: 2017 - 2019
+      company: Geophysical Institute, Quito - Ecuador
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Supervise the maintenance of data networks and application development.
+        Review and verify the correct operation of seismic and network monitoring equipment. 
+        
+          - Proficiency in Zabbix monitoring server.  
+          - Expertise in Graylog log monitoring server. 
 
     - role: UI Developer
       time: 2012 - 2014
