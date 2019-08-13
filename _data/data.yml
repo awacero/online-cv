@@ -61,7 +61,7 @@ education:
 
 experiences:
     - role: Seismic Analyst 2
-      time: 2019 - Present
+      time: 2017 - Present
       company: Geophysical Institute, Quito - Ecuador
       details: |
         Develop and implement quality control systems for the seismic and volcanic network 
@@ -75,7 +75,7 @@ experiences:
         
 
     - role: Seismic Analyst 1
-      time: 2017 - 2019
+      time: 2014 - 2017
       company: Geophysical Institute, Quito - Ecuador
       details: |
         Supervise the maintenance of data networks and application development.
@@ -84,18 +84,14 @@ experiences:
           - Proficiency in Zabbix monitoring server.  
           - Expertise in Graylog log monitoring server. 
 
-    - role: UI Developer
+    - role: Seismic Auxiliar
       time: 2012 - 2014
-      company: Amazon, London
+      company: Geophysical Institute, Quito - Ecuador
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Maintenance of seismic and network monitoring equipment. 
+        Elaboration of technical reports. 
+        
+          - Electric and electronic skills
 
 projects:
     title: Projects
