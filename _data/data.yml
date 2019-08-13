@@ -131,12 +131,15 @@ skills:
 
       - name: Linux
         level: 78%
-
-      - name: C++ % Fortran
+              
+      - name: C++ & Fortran
         level: 50%
 
       - name: Bash scripting
         level: 80%
-
+        
+      - name: Zabbix, Graylog, Nfsen  
+        level: 80%
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
