@@ -18,53 +18,37 @@ sidebar:
     github: awacero
 
     languages:
+      - idiom: Spanish
+        level: Native
+        
       - idiom: English
         level: advanced
 
       - idiom: French
         level: good
 
-      - idiom: Spanish
-        level: Native
-
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Running
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I'm a programmer and network engineer who works in the field of earth sciences 
+      since 2012 applying my expertice in Networing, Linux and Python  to manage, 
+      troubleshoot and improve seismological data acquisition and processing. At IGEPN 
+      I'm in charge of several processing systems like SeisComP3, Shakemap and Swift.
 
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Engineer in Electronic and Networking
+      university: National Polytechnich School 
+      time: 2006 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
