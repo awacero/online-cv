@@ -14,15 +14,8 @@ sidebar:
     # Sidebar links
     email: wacero@igepn.edu.ec, acerowilson@gmail.com
     phone: 593 995313709
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: awacero
     gitlab: wacero
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    github: awacero
 
     languages:
       - idiom: English
