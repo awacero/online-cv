@@ -122,14 +122,11 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Depth‐dependent rupture mode along the Ecuador‐Colombia subduction zone 
+        authors: Masahiro Yoshimoto, Hiroyuki Kumagai, Wilson Acero
+        conference: Geophysical Research Letters, Volume 44, Issue 5
 
 skills:
     title: Skills &amp; Proficiency
@@ -142,7 +139,7 @@ skills:
         level: 78%
               
       - name: C++ & Fortran
-        level: 50%
+        level: 30%
 
       - name: Bash scripting
         level: 80%
