@@ -108,6 +108,11 @@ projects:
       Plugin_facebook
 
     assignments:
+
+      - title: Calculate_rsam
+        link: "plugin_facebook"
+        tagline: "A python module to upload seismic event information to a institutional fan page"
+
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
