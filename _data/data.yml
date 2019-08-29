@@ -40,24 +40,25 @@ career-profile:
     summary: |
       I'm a programmer and network engineer who works in the field of earth sciences 
       since 2012 applying my expertice in Networking, Linux and Python to manage, 
-      troubleshoot and improve seismological data acquisition and processing. At IGEPN 
-      I'm in charge of several processing systems like SeisComP3, Shakemap and Swift.
+      troubleshoot and improve seismological data acquisition and processing. 
 
-      Second paragraph if required.
+      At Ecuadorian Geophysical Institute of the National Polytechnic School (IGEPN) 
+      I'm in charge of several processing systems like SeisComP3, Shakemap and Swift, all
+      of then open source software based in Bash, C++ and Python. 
+
+      
 
 education:
     - degree: Engineer in Electronic and Networking
       university: National Polytechnich School 
       time: 2006 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        - Linux and Windows OS
+        - OOP using Java and Visual basic .NET
+        - Network Administration
+        - Multimedia
+        - Electronic and microprocesor programming
 
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Seismic Analyst 2
@@ -96,9 +97,15 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
+      `Calculate_rsam <https://gitlab.com/wacero/calculate_rsam>` Library to calculate the RSAM (Real-time Seismic Amplitude Measurement) of seismic 
+      waveforms to use as input for an volcanic alert system. 
+
+      Plot_waveform code for plotting seismic waveform data stored in MSEED by SeisComP3
+      
+      SwiftPublish library to post in Twitter the estimation of source parameters of an earthquake calculated by SWIFT
+   
+      Plugin_facebook
 
     assignments:
       - title: Velocity
