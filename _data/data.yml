@@ -104,6 +104,7 @@ projects:
     assignments:
 
       - title: Calculate_rsam
+        website: gitlab.com/wacero/calculate_rsam
         tagline: "Library to calculate the RSAM (Real-time Seismic Amplitude Measurement) of seismic waveforms to use as input for an volcanic alert system  https://gitlab.com/wacero/calculate_rsam "
 
 
