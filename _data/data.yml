@@ -98,24 +98,17 @@ projects:
     title: Projects
     intro: >
       
-      `Calculate_rsam <https://gitlab.com/wacero/calculate_rsam>` Library to calculate the RSAM (Real-time Seismic Amplitude Measurement) of seismic 
-      waveforms to use as input for an volcanic alert system. 
-
-      Plot_waveform code for plotting seismic waveform data stored in MSEED by SeisComP3
-      
-      SwiftPublish library to post in Twitter the estimation of source parameters of an earthquake calculated by SWIFT
-   
-      Plugin_facebook
+      My projects have been oriented to basic processing of seismic waveform using Python and also to dissemination of seismic alerts using social networks like Facebook and Twitter. 
+      SwiftPublish library to post in Twitter the estimation of source parameters of an earthquake calculated by SWIFT Plugin_facebook "A python module to upload seismic event information to a institutional fan page"
 
     assignments:
 
       - title: Calculate_rsam
-        link: "plugin_facebook"
-        tagline: "A python module to upload seismic event information to a institutional fan page"
+        tagline: "Library to calculate the RSAM (Real-time Seismic Amplitude Measurement) of seismic waveforms to use as input for an volcanic alert system  https://gitlab.com/wacero/calculate_rsam "
 
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: Plot_waveform 
+        tagline: "Plot_waveform code for plotting seismic waveform data stored in MSEED by SeisComP3, https://gitlab.com/wacero/plot_waveform" 
 
       - title: DevStudio
         link: "#"
