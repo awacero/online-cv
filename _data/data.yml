@@ -98,23 +98,26 @@ projects:
     title: Projects
     intro: >
       
-      My projects have been oriented to basic processing of seismic waveform using Python and also to dissemination of seismic alerts using social networks like Facebook and Twitter. 
-      SwiftPublish library to post in Twitter the estimation of source parameters of an earthquake calculated by SWIFT Plugin_facebook "A python module to upload seismic event information to a institutional fan page"
+      My projects have been oriented to basic processing of seismic waveform using Python and also to dissemination of seismic alerts using social networks like Facebook and Twitter.  
 
     assignments:
 
       - title: Calculate_rsam
         website: gitlab.com/wacero/calculate_rsam
-        tagline: "Library to calculate the RSAM (Real-time Seismic Amplitude Measurement) of seismic waveforms to use as input for an volcanic alert system  https://gitlab.com/wacero/calculate_rsam "
+        tagline: "Library to calculate the RSAM (Real-time Seismic Amplitude Measurement) of seismic waveforms to use as input for an volcanic alert system"
 
 
       - title: Plot_waveform 
-        tagline: "Plot_waveform code for plotting seismic waveform data stored in MSEED by SeisComP3, https://gitlab.com/wacero/plot_waveform" 
+        website: gitlab.com/wacero/plot_waveform
+        tagline: "Python modules for plotting seismic waveform data stored in MSEED by SeisComP3" 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: SwiftPublish
+        website: gitlab.com/wacero/swiftPublish
+        tagline: "library to post in Twitter the estimation of source parameters of an earthquake calculated by SWIFT"
 
+      - title: Plugin_facebook
+        website: github.com/awacero/plugin_facebook
+        tagline: "A python module to upload seismic event information to IGEPN facebook fan page"
 
 publications:
     title: Publications
